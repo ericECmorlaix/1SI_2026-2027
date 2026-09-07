@@ -46,7 +46,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 === "TRAVAIL À FAIRE"
 
     - Devoir Maison en électricité :
-        - [Exercices 8, 9 et 10](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+        - [Exercices 8, 9 et 10](https://ericecmorlaix.github.io/1SI_2026-2027/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
         - [Imprimante 3D](https://perso.crans.org/geneau/NewCligne/ressources//PDF/601_Elect%20%20Imprimante%203D.pdf){target=_blank} ;
         - [Lanceur de balle de Pingpong](https://perso.crans.org/geneau/NewCligne/ressources//PDF/603_Elect%20Lanceur%20balle_ping%20pong.pdf){target=_blank} ;
         - [Robot tondeuse](https://perso.crans.org/geneau/NewCligne/ressources/PDF/605_Elect%20Robot%20tondeuse.pdf){target=_blank} ;
@@ -104,11 +104,11 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 ***
 
-        - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ; [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2025-2026/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
+        - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ; [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2026-2027/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
 
         - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur une breadboard (LED, BP, Potentiomètre, ...) et avec ceux de [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...        
     
-        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour [piloter des moteurs](https://ericecmorlaix.github.io/1SI_2025-2026/Projet/Robotique/#piloter-des-moteurs){target="_blank"}...
+        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour [piloter des moteurs](https://ericecmorlaix.github.io/1SI_2026-2027/Projet/Robotique/#piloter-des-moteurs){target="_blank"}...
 
 
 
@@ -134,7 +134,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir** la programmation des broches Entrées/Sorties Logiques/Analogiques d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2025-2026/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+    - **Finir** la programmation des broches Entrées/Sorties Logiques/Analogiques d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2026-2027/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
 
     - **Réviser** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} pour une évaluation le 27/05 ;
 
@@ -150,7 +150,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2025-2026/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2026-2027/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
 
     - **Découvrir** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}
 
@@ -172,7 +172,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 === "CONTENU DE SÉANCE"
 
     
-    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2025-2026/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2026-2027/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
     
 === "TRAVAIL À FAIRE"
 
@@ -183,7 +183,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 === "CONTENU DE SÉANCE"
 
     - **Se préparer** pour une évaluation sur les notions de [Mouvements et Trajectoires dans les mécanismes](https://sites.google.com/view/newecligne/m%C3%A9canique/cin%C3%A9matique/mouvements-et-trajectoires){target=_blank} ;
-    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2025-2026/Projets/Robotique){target=_blank} ;
+    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2026-2027/Projets/Robotique){target=_blank} ;
     
 === "TRAVAIL À FAIRE"
 
@@ -215,13 +215,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
         - [TD_Serre_Joint](./SC/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./SC/Serre joint a pompe.zip) ;
         - [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./SC/Scie Sauteuse ERM.zip) ;
 
-    - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
+    - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
     [Capytale n° ee1a-5957166](https://capytale2.ac-paris.fr/web/c/ee1a-5957166){target=_blank .md-button .md-button--primary } | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
                 
-    - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
+    - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
     [Capytale n° 6215-5948254](https://capytale2.ac-paris.fr/web/c/6215-5948254){target=_blank .md-button .md-button--primary } | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
 
     - **Décrire** vos projets envisagés sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ;       
     
@@ -242,13 +242,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Finir** et **rendre** sur Capytale les :
 
-        - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
+        - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
         [Capytale n° ee1a-5957166](https://capytale2.ac-paris.fr/web/c/ee1a-5957166){target=_blank .md-button .md-button--primary } | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
                 
-        - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
+        - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
         [Capytale n° 6215-5948254](https://capytale2.ac-paris.fr/web/c/6215-5948254){target=_blank .md-button .md-button--primary } | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
 
     - **Décrire** vos projets envisagés sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } pour préparer la prochaine Fête de la Science qui aura pour thème "les intelligences" et qui se tiendra entre les 3 et 13 octobre prochain ;        
     
@@ -270,13 +270,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
             - [TD_Serre_Joint](./SC/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./SC/Serre joint a pompe.zip) ;
             - [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./SC/Scie Sauteuse ERM.zip) ;
 
-        - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
+        - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
         [Capytale n° ee1a-5957166](https://capytale2.ac-paris.fr/web/c/ee1a-5957166){target=_blank .md-button .md-button--primary } | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
                 
-        - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
+        - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
         [Capytale n° 6215-5948254](https://capytale2.ac-paris.fr/web/c/6215-5948254){target=_blank .md-button .md-button--primary } | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
 
         
 
@@ -284,12 +284,12 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - Activités déjà réalisées :
 
         - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
-        - [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){target=_blank} | 
+        - [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EL/Circuit_Electrique.ipynb){target=_blank} | 
         [Capytale n° 7821-5555296](https://capytale2.ac-paris.fr/web/c/7821-5555296){target=_blank .md-button .md-button--primary } | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary} ;
-        - Logique séquentielle de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary} ;
+        - Logique séquentielle de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} | 
         [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
         - [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} | 
         [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } | [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
         - [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} | 
@@ -328,9 +328,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
         > Ces circuits utilisent des transistors bipolaires inventés en 1948.
         > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
     
-    - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 
 ## Du 22/05
 
@@ -376,15 +376,15 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Lire** [Circuits_Electriques-Introduction.pdf](./EL/Circuits_Electriques-Introduction.pdf){target=_blank}  et **Faire** les activités du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){target=_blank}
+    - **Lire** [Circuits_Electriques-Introduction.pdf](./EL/Circuits_Electriques-Introduction.pdf){target=_blank}  et **Faire** les activités du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/EL/Circuit_Electrique.ipynb){target=_blank}
     [Capytale n° 7821-5555296](https://capytale2.ac-paris.fr/web/c/7821-5555296){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
 
      
 === "TRAVAIL À FAIRE"
 
     - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
-    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2025-2026/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2026-2027/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
 
 ***
 ## Du 12/03
@@ -393,7 +393,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     - **Reporter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ;
 
-    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2025-2026/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2026-2027/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
     
 === "TRAVAIL À FAIRE"
 
@@ -504,9 +504,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
         - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
         - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
 
-    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 
     - Synthèse de la prise en main du logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} ;
 
@@ -525,9 +525,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"}
 
-    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 
        
 === "TRAVAIL À FAIRE"
@@ -549,13 +549,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Correction de l'evaluation n°2 sur l'énergétique => **Refaire** les dernières question de l'exercice du [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} et **remettre** votre travail au format numérique (`.pdf`, `.md` ou `.ipynb`) ou papier pour le 28/11 ;
 
-    - Synthèse de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
+    - Synthèse de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
     [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary } ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary } ;
 
-    - TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    - TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
 
        
 === "TRAVAIL À FAIRE"
@@ -573,9 +573,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Poursuite de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
+    - Poursuite de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
     [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
        
 === "TRAVAIL À FAIRE"
 
@@ -590,12 +590,12 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Correction des questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } ;
+    - Correction des questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } ;
 
-    - [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
+    - [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
     [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
 
 === "TRAVAIL À FAIRE"
 
@@ -610,8 +610,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
+    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
         
     
 === "TRAVAIL À FAIRE"
@@ -757,7 +757,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Correction des exercices de conversion de la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
+    - Correction des exercices de conversion de la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
     [Capytale n°`f6e0-7171881`](https://capytale2.ac-paris.fr/web/c/f6e0-7171881){target=_blank .md-button .md-button--primary } ;
 
     - Evaluation en analyse fonctionnelle SYSML + numération et codage de l'information ;
@@ -781,7 +781,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Retour sur le T.A.F. ;
 
-    - Version finale du cours sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
+    - Version finale du cours sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
     [Capytale n°`f6e0-7171881`](https://capytale2.ac-paris.fr/web/c/f6e0-7171881){target=_blank .md-button .md-button--primary }
     > ==**Finir** les exercices de conversion...== ;    
 
@@ -804,7 +804,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Retour sur le T.A.F. ;
 
-    - Focus sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2025-2026/CI/ChaineInformation-Numeration.ipynb){target="_blank"} 
+    - Focus sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/ChaineInformation-Numeration.ipynb){target="_blank"} 
     [Capytale n°f1e8-3992825](https://capytale2.ac-paris.fr/web/c/f1e8-3992825){target=_blank .md-button .md-button--primary }
     > ==**Faire** les exercices de conversion...== ;    
 
@@ -823,29 +823,28 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - Cours [Analyse Fonctionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank​}    
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/AF/OutilsAnalyseFonctionnelleInterne.ipynb){ .md-button .md-button--primary } [Capytale n°fef3-3925750](https://capytale2.ac-paris.fr/web/c/fef3-3925750){target=_blank .md-button .md-button--primary }
+    - Cours [Analyse Fonctionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2026-2027/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank​}    
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/AF/OutilsAnalyseFonctionnelleInterne.ipynb){ .md-button .md-button--primary } [Capytale n°fef3-3925750](https://capytale2.ac-paris.fr/web/c/fef3-3925750){target=_blank .md-button .md-button--primary }
         
     > ==**découvrir** plus avant le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.drawio.com/){target=_blank} ;==      
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** sur drawio un dessin présentant les chaines d'information et de puissance de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fonctionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 20/09.
+    - **Finir** sur drawio un dessin présentant les chaines d'information et de puissance de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fonctionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2026-2027/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 20/09.
 
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
 
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
-
-
+-->
 ***
-## Les 05 et 09/09 :
+## Les 08 et 10/09 :
 
 === "CONTENU DE SÉANCE"
 
-    - Cours [Analyse Fonctionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2025-2026/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } [Capytale n°`bd30-6985093`](https://capytale2.ac-paris.fr/web/c/bd30-6985093){target=_blank .md-button .md-button--primary }
+    - Cours [Analyse Fonctionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2026-2027/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } [Capytale n°`bd30-6985093`](https://capytale2.ac-paris.fr/web/c/bd30-6985093){target=_blank .md-button .md-button--primary }
 
     > ==**découvrir** le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.drawio.com/){target=_blank} ;== 
     
@@ -853,13 +852,12 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
 === "TRAVAIL À FAIRE"
 
-    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2025-2026/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 11/09.
+    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2026-2027/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 11/09.
     
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;;
 
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
--->
 ***
 ## Les 03 et 04/09
 

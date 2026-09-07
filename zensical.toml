@@ -7,7 +7,7 @@ site_name = "1SI_2026-2027"
 # Adresse web principale de publication du site, à modifier au format https://votrePseudoGitHub.github.io/votreDepot/site: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://ericecmorlaix.github.io/1SI_2026-2027" 
 # Métadonnée de description ajoutée dans le <head> de toutes les pages du site : https://zensical.org/docs/setup/basics/#site_description
-site_description = "Pour la vie de classe, l'orientation des terminales et les projets en SI et NSI au lycée Notre Dame du Mur de MORLAIX."
+site_description = "Sciences de l'Ingénieur en classe de première au lycée Notre Dame du Mur de MORLAIX."
 # Métadonnées d'auteur ajoutée dans le <head> de toutes les pages du site : https://zensical.org/docs/setup/basics/#site_author
 site_author = "ericECmorlaix"
 
