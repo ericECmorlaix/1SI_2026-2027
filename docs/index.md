@@ -817,9 +817,9 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
-
+-->
 ***
-## Les 11 et 12/09 :
+## Les 11 et 15/09 :
 
 === "CONTENU DE SÉANCE"
 
@@ -837,7 +837,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
--->
+
 ***
 ## Les 08 et 10/09 :
 
