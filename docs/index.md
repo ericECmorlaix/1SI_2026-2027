@@ -753,7 +753,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
 ***
-## Le 19/09
+## Le 22/09
 
 === "CONTENU DE SÉANCE"
 
@@ -773,7 +773,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-        
+-->        
 ***
 ## Le 18/09
 
@@ -791,12 +791,12 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
 
-    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 19/09_**.
+    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information_**.
 
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
--->
+
 ***
 ## Le 17/09
 
