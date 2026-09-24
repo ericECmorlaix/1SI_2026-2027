@@ -753,17 +753,17 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
 ***
-## Le 22/09
+
+-->
+
+## Le 24/09
 
 === "CONTENU DE SÉANCE"
-
-    - Correction des exercices de conversion de la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
-    [Capytale n°`f6e0-7171881`](https://capytale2.ac-paris.fr/web/c/f6e0-7171881){target=_blank .md-button .md-button--primary } ;
 
     - Evaluation en analyse fonctionnelle SYSML + numération et codage de l'information ;
     
     - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `83dbt9cp` fourni​​​ pour débuter le **Parcours_1** ;
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `58bjrq94` fourni​​​ pour débuter le **Parcours_1** ;
         - ==**notez, et conservez** votre code personnel pour retourner dans ce parcours d'une fois sur l'autre== ;
 
 === "TRAVAIL À FAIRE"
@@ -772,8 +772,26 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
--->        
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ; 
+
+***
+## Le 22/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des exercices de conversion de la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/ChaineInformation-Numeration-Complet.ipynb){target="_blank"} 
+    [Capytale n°`f6e0-7171881`](https://capytale2.ac-paris.fr/web/c/f6e0-7171881){target=_blank .md-button .md-button--primary } ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
+
+    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information_**.
+
+    - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
+    
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
+       
 ***
 ## Le 18/09
 
