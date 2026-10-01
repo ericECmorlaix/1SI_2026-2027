@@ -673,7 +673,6 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
-
 ***
 ## Du 02/10
 
@@ -701,9 +700,10 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
+-->
 ***
 
-## Du 25/09
+## Du 01/10
 
 === "CONTENU DE SÉANCE"
 
@@ -732,29 +732,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
 
- 
 ***
-## Le 23/09
-
-=== "CONTENU DE SÉANCE"
-
-    - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `83dbt9cp` fourni​​​ pour débuter le **Parcours_1** ;
-        - ==**notez, et conservez** votre code personnel pour retourner dans ce parcours d'une fois sur l'autre== ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
-    
-    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-        
-    - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
-
-***
-
--->
 
 ## Le 24/09
 
