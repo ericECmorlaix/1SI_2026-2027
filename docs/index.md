@@ -675,7 +675,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 -->
 
 ***
-## Le 15/10
+## Les 09 et 13/10
 
 === "CONTENU DE SÉANCE" 
 
