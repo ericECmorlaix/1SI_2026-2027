@@ -684,8 +684,8 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
     
     - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} :
-        - [HELILOCK](https://docs.google.com/document/d/1g9o6MeAD4R7Ch3Z5GcvURkgwrPDuPRW-wOOCCXECoSY/edit?tab=t.0){target="_blank"},
-        - [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target="_blank"} ;
+        - [HELILOCK](https://docs.google.com/document/d/1g9o6MeAD4R7Ch3Z5GcvURkgwrPDuPRW-wOOCCXECoSY/edit?tab=t.0){target="_blank"} [Correction](./CP/Correction_Heliport.pdf){target=_blank .md-button .md-button--primary },
+        - [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target="_blank"} [Correction](./CP/Correction_SUNSEARIDER.pdf){target=_blank .md-button .md-button--primary };
 
 
 === "TRAVAIL À FAIRE"
