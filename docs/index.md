@@ -675,6 +675,36 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 -->
 
 ***
+## Le 15/10
+
+=== "CONTENU DE SÉANCE" 
+
+    - Etat d'avancement de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} :
+        - [HELILOCK](https://docs.google.com/document/d/1g9o6MeAD4R7Ch3Z5GcvURkgwrPDuPRW-wOOCCXECoSY/edit?tab=t.0){target="_blank"},
+        - [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target="_blank"} ;
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
+    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
+    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
+
+    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ;
+    
+    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+    
+    - **Compléter et rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
+
+***
 ## Du 06/10
 
 === "CONTENU DE SÉANCE"    
