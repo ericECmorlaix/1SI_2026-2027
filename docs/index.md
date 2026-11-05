@@ -610,9 +610,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
 === "CONTENU DE SÉANCE"
 
-    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
-        
+    
     
 === "TRAVAIL À FAIRE"
 
@@ -620,8 +618,7 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - **Finaliser** et **rendre** tous les travaux engagés ;  
     
-    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot](https://execubot.fr/game?levels=1+2+37+47+5+7+36+21+26+22+15+10+11+12+38+56+9+43+35+40+41+42+48+50+53+51+54+60+63+17+45+59+64+46+55+58+62+39+49+61+18+44+65+30+57+52+68+6+13+25+29+23+24+69+80+79+16+28+81+82+85+3+4+70+33+8+27+71+75+2000+76+66+72+73+77+67+1000+74+78+3000+31+34+83+84&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
-
+    
 
 ***
 ## Les 6 et 7/11
@@ -631,7 +628,6 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - Oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} ;
     - Restitution orale des auto-corrections de l'évaluation sur les énergies, rendement et principales puissances ;
 
-
 ***
 ## Le 4/11
 
@@ -639,25 +635,16 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Auto-correction de l'évaluation sur les énergies, rendement et principales puissances ;
 
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
-    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
-    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
-
-    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
-    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-    
-    - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
-
+-->
 
 ***
-## Le 17/10
+## Le 05/11
 
 === "CONTENU DE SÉANCE" 
 
     - Evaluation sur les énergies, rendement et principales puissances ;
+    - **Compléter** la description de votre projet dans son dépot ;
+    - **Répondre** aux questions du notebook [Fonctions Logiques - Google doodle sur Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank}
 
 === "TRAVAIL À FAIRE"
 
@@ -665,14 +652,16 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
     - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
     > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
-    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
     
-    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    - **Rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
     
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot](https://execubot.fr/game?levels=1+2+37+47+5+7+36+21+26+22+15+10+11+12+38+56+9+43+35+40+41+42+48+50+53+51+54+60+63+17+45+59+64+46+55+58+62+39+49+61+18+44+65+30+57+52+68+6+13+25+29+23+24+69+80+79+16+28+81+82+85+3+4+70+33+8+27+71+75+2000+76+66+72+73+77+67+1000+74+78+3000+31+34+83+84&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
+
     - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
--->
+
 ***
 ## Le 03/11
 
