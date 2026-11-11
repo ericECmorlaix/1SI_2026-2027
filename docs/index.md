@@ -586,40 +586,13 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
         - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ; 
 ***
 
-## Le 14/11
 
-=== "CONTENU DE SÉANCE"
-
-    - Correction des questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } ;
-
-    - [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
-    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
-
-=== "TRAVAIL À FAIRE"
-
-    - Se préparer pour une évaluation sur la programmation en Python d'IOT ([**QuickPi**](https://amazon.quick-pi.org/){target="_blank"}) et une nouvelle évaluation sur les énergies, rendement et principales puissances ([**NEWECLIGNE**](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank}) les 18 et 20/11 ;
-
-    
-    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot](https://execubot.fr/game?levels=1+2+37+47+5+7+36+21+26+22+15+10+11+12+38+56+9+43+35+40+41+42+48+50+53+51+54+60+63+17+45+59+64+46+55+58+62+39+49+61+18+44+65+30+57+52+68+6+13+25+29+23+24+69+80+79+16+28+81+82+85+3+4+70+33+8+27+71+75+2000+76+66+72+73+77+67+1000+74+78+3000+31+34+83+84&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
-
-***
-## Le 13/11
-
-=== "CONTENU DE SÉANCE"
 
     
     
 === "TRAVAIL À FAIRE"
 
     - Se préparer pour une évaluation sur la programmation en Python d'IOT ([**QuickPi**](https://amazon.quick-pi.org/){target="_blank"}) et une nouvelle évaluation sur les énergies, rendement et principales puissances ([**NEWECLIGNE**](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank}) les 18 et 20/11 ;
-
-      
-    
-    
-
-    - Restitution orale des auto-corrections de l'évaluation sur les énergies, rendement et principales puissances ;
 
 ***
 ## Le 4/11
@@ -628,20 +601,29 @@ Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mu
 
     - Auto-correction de l'évaluation sur les énergies, rendement et principales puissances ;
 
-- [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
-    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2026-2027/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
+;
 
 
 -->
+***
+## Du 12/11
+
+=== "CONTENU DE SÉANCE" 
+
+    - Correction des questions du notebook [Fonctions Logiques - Google doodle sur Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank} ;
+    - [Logique de la chaine d'information Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finaliser** et **rendre** tous les travaux engagés ;
 
 ***
-## Les 6 et 10/11
+## Les 06 et 10/11
 
 === "CONTENU DE SÉANCE" 
 
     - Oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} ;
-    - Correction des questions du notebook [Fonctions Logiques - Google doodle sur Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank} ;
     - Tournoi d'[execubot](https://execubot.fr/gameVersus?instr=on&if=on&elif=on&else=on&for=on&while=on&def=on){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
